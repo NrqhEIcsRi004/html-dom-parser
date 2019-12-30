@@ -78,8 +78,5 @@
     "/index.d.ts",
     "/lib"
   ],
-  "browser": {
-    "./index.js": "./lib/html-to-dom-client.js"
-  },
   "license": "MIT"
 }
